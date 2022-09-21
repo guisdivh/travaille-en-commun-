@@ -6,3 +6,4 @@ int main ()
     std::cout<<"exemple2"<< endl;
     return 0;
 }
+//thomas
